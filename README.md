@@ -14,7 +14,6 @@ This WhatsApp AI Chatbot is a powerful and intelligent assistant that integrates
 ## Technologies Used 🛠
 - *Node.js* – Backend runtime
 - *Google Gemini AI* -  AI-powered responses
-- *check-password-strength* for password strength evaluation
 - *dotenv* – Secure API key handling
 - *qrcode-terminal* – QR Code generation for WhatsApp login
 
