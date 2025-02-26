@@ -72,7 +72,7 @@ Ensure you have *Node.js* and *npm* installed on your machine.
 Contributions are welcome! Please feel free to submit issues or pull requests.
 
   ## License 📝
-  This project is licensed under the [LICENSE](License).
+  This project is licensed under the [LICENSE](LICENSE).
   
   ## Acknowledgements 🙏
   - *GoogleGenerativeAI : * for providing API
