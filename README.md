@@ -9,7 +9,7 @@ This WhatsApp AI Chatbot is a powerful and intelligent assistant that integrates
 - *WhatsApp Integration* – Connects to WhatsApp Web and listens for in
 - *Secure API Handling* – Uses environment variables to protect sensitive keys.
 - *Structured & Modular Code* – Organized for scalability and easy maintenance.
--  *revents Bans* – Implements best practices to reduce the risk of being banned by WhatsApp.
+-  *Prevents Bans* – Implements best practices to reduce the risk of being banned by WhatsApp.
 
 ## Technologies Used 🛠
 - *Node.js* – Backend runtime
