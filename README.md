@@ -43,7 +43,7 @@ Ensure you have *Node.js* and *npm* installed on your machine.
     
 3.  Run the bot:
     bash
-   ` node src/bot.js `
+   ` node bot.js `
     
    
 ### Send a message on WhatsApp
