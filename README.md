@@ -65,6 +65,33 @@ Ensure you have *Node.js* and *npm* installed on your machine.
 - Fully customizable for different use cases (customer support, chatbots, etc.)
 - Ideal for small businesses, AI enthusiasts, and automation lovers! 🚀
 
+## How I Deployed Genbot on Raspberry Pi 5 🚀
+### 🔧 Steps to Deploy:
+#### 1. nstall dependencies:
+    
+    sudo apt update && sudo apt upgrade -y sudo apt install nodejs npm git -y 
+    
+#### 2. Clone the GitHub Repo:
+
+      git clone https://github.com/Mr-BiG1/Genbot.git 
+     cd Genbot
+   
+#### 3. Install Dependencies:
+
+ ` npm install
+ 
+#### 4.  Setup Environment Variables(.env file):
+
+` GEMINI_API_KEY=your_api_key_here `
+
+#### 5. Run the Bot:
+` node bot.js `
+
+#### 6. Keep It Running in Background:
+
+` sudo npm install -g pm2` 
+`pm2 start bot.js --name GenBot` 
+
 
 
 ## Contributing 🤝
